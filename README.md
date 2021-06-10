@@ -24,8 +24,11 @@ Komponent będzie wyświetlał element Jumbotron: https://getbootstrap.com/docs/
 Element ten zawiera napis Hello, world! oraz przycisk. 
 Naciśnięcie tego przycisku zamienia słowo "World" na Twoje imię.
 
-## 8. Dodanie nawigacji - 3 pkt
+## 8. Dodanie nawigacji. 3 pkt - dodanie, 1 pkt wyświetlenie
 
 W tym zadaniu należy dodać nawigację - komponent klasowy XYnavbar.jsx (XY - inicjały).
 Komponent będzie zawierał menu, za pomocą którego będzie można przechodzić pomiędzy komponetnami posts oraz XYhome.
 Menu powinno być widoczne w każdym widoku.
+
+
+### Razem 15 pkt
