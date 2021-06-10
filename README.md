@@ -20,7 +20,9 @@ Należy stowrzyć nowy komponent FUNKCYJNY, który będzie nazywać się - XYhom
 
 W tym zadaniu trzeba dodać routing do nowego komponentu, którym będzie ścieżka "/home".
 
-Komponent będzie wyświetlał
+Komponent będzie wyświetlał element Jumbotron: https://getbootstrap.com/docs/4.0/components/jumbotron/
+Element ten zawiera napis Hello, world! oraz przycisk. 
+Naciśnięcie tego przycisku zamienia słowo "World" na Twoje imię.
 
 ## 8. Dodanie nawigacji - 3 pkt
 
