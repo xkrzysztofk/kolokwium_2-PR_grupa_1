@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# Programowanie reaktywne - kolokwium 2 - Grupa 1
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+1. Stworzenie fork'a  - 1 pkt
+2. Sklonowanie projektu na lokalną maszynę - 1 pkt
+3. Przejście na nowego brancha - 1 pkt
 
-In the project directory, you can run:
+Należy przejść na nowego brancha. Nazwa to XY-kol (gdzie XY - to pierwsza inicjały).
 
-### `npm start`
+5. Instalacja i uruchomienie projektu - 1pkt
+6. Wyświetlenie danych pobranych w komponencie posts - 3pkt
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+W tym zadaniu należy wyświetlić dane w componencie Card - bootstrap. 
+W komponencie posts przygotowany jest element card. Zadaniem jest wyświetlenie podpisu oraz grafiki w tym komponencie w odpowiednich znacznikach.
+Np. w img - item.image
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+7. Stworzenie nowego komponentu - 4 pkt
 
-### `npm test`
+Należy stowrzyć nowy komponent FUNKCYJNY, który będzie nazywać się - XYhome.jsx (XY - to inicjały).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+W tym zadaniu trzeba dodać routing do nowego komponentu, którym będzie ścieżka "/home".
 
-### `npm run build`
+Komponent będzie wyświetlał
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+8. Dodanie nawigacji - 3 pkt
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+W tym zadaniu należy dodać nawigację - komponent klasowy XYnavbar.jsx (XY - inicjały).
+Komponent będzie zawierał menu, za pomocą którego będzie można przechodzić pomiędzy komponetnami posts oraz XYhome.
+Menu powinno być widoczne w każdym widoku.
