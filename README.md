@@ -10,8 +10,8 @@ Należy przejść na nowego brancha. Nazwa to XY-kol (gdzie XY - to Twoje inicja
 ## 5. Instalacja i uruchomienie projektu - 1pkt
 ## 6. Wyświetlenie danych pobranych w komponencie posts - 3pkt
 
-W tym zadaniu należy wyświetlić dane w componencie Card - bootstrap. 
-W komponencie posts przygotowany jest element card. Zadaniem jest wyświetlenie podpisu oraz grafiki w tym komponencie w odpowiednich znacznikach.
+W tym zadaniu należy wyświetlić dane w elemencie Card - bootstrap. 
+W komponencie posts przygotowany jest element card. Zadaniem jest wyświetlenie podpisu grafiki oraz tekstu w tym komponencie w odpowiednich znacznikach.
 Np. w img - item.image
 
 ## 7. Stworzenie nowego komponentu - 4 pkt
