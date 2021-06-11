@@ -5,7 +5,7 @@
 ## 2. Sklonowanie projektu na lokalną maszynę - 1 pkt
 ## 3. Przejście na nowego brancha - 1 pkt
 
-Należy przejść na nowego brancha. Nazwa to XY-kol (gdzie XY - to pierwsza inicjały).
+Należy przejść na nowego brancha. Nazwa to XY-kol (gdzie XY - to Twoje inicjały).
 
 ## 5. Instalacja i uruchomienie projektu - 1pkt
 ## 6. Wyświetlenie danych pobranych w komponencie posts - 3pkt
