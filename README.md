@@ -7,14 +7,14 @@
 
 Należy przejść na nowego brancha. Nazwa to XY-kol (gdzie XY - to Twoje inicjały).
 
-## 5. Instalacja i uruchomienie projektu - 1pkt
-## 6. Wyświetlenie danych pobranych w komponencie posts - 3pkt
+## 4. Instalacja i uruchomienie projektu - 1pkt
+## 5. Wyświetlenie danych pobranych w komponencie posts - 3pkt
 
 W tym zadaniu należy wyświetlić dane w elemencie Card - bootstrap. 
 W komponencie posts przygotowany jest element card. Zadaniem jest wyświetlenie podpisu grafiki oraz tekstu w tym komponencie w odpowiednich znacznikach.
 Np. w img - item.image
 
-## 7. Stworzenie nowego komponentu - 4 pkt
+## 6. Stworzenie nowego komponentu - 4 pkt
 
 Należy stowrzyć nowy komponent FUNKCYJNY, który będzie nazywać się - XYhome.jsx (XY - to inicjały).
 
@@ -24,7 +24,7 @@ Komponent będzie wyświetlał element Jumbotron: https://getbootstrap.com/docs/
 Element ten zawiera napis Hello, world! oraz przycisk. 
 Naciśnięcie tego przycisku zamienia słowo "World" na Twoje imię.
 
-## 8. Dodanie nawigacji. 3 pkt - dodanie, 1 pkt wyświetlenie
+## 7. Dodanie nawigacji. 3 pkt - dodanie, 1 pkt wyświetlenie
 
 W tym zadaniu należy dodać nawigację - komponent klasowy XYnavbar.jsx (XY - inicjały).
 Komponent będzie zawierał menu, za pomocą którego będzie można przechodzić pomiędzy komponetnami posts oraz XYhome.
